@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Qrcode.Flow.Model\Qrcode.Flow.Model.csproj" />
+    <ProjectReference Include="..\Qrcode.Flow.Repository\Qrcode.Flow.Repository.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
